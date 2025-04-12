@@ -1,0 +1,8 @@
+# VSCode
+.vscode
+
+# Files
+data
+
+# Docker
+docker-compose.yml
