@@ -6,3 +6,7 @@ data
 
 # Docker
 docker-compose.yml
+
+# NodeJs
+node_modules
+*-lock.json
